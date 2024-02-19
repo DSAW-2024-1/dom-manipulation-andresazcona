@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/EEMCX3dO)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13877439&assignment_repo_type=AssignmentRepo)
 # Lista de Tareas
 
 Esta tarea consiste en crear una aplicación de lista de tareas utilizando HTML, CSS y JavaScript. La aplicación debe ser capaz de crear, eliminar y marcar tareas como completadas. Además, se espera que el diseño sea responsive y se adapte correctamente a las medidas de dispositivos móviles, tablets y desktops.
@@ -28,4 +30,9 @@ El diseño de la aplicación debe ser responsive y adaptarse correctamente a dif
 | HTML Semántico     | 0.5     |
 | Funcionalidad      | 3       |
 
+## Deploy
 
+Así que, resulta que GitHub Pages no me dejó publicar el proyecto porque el repositorio está configurado como privado. Me encontré en una encrucijada, sin saber qué hacer. Pero decidí hacer algo al respecto y publiqué el sitio en un hosting temporal. ¡Así que, profe, si quieres verlo en vivo, solo durará un mes! Es un hosting para enviar pruebas de producto temporales, así que si se cae, avísame y lo monto en otro hosting temporal. :)
+
+**Link:**
+https://todolistandresazcona.000webhostapp.com
